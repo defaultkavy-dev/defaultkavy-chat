@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@elexis.js/css": "^1.0.2",
+    "@onecomme.com/onesdk": "^7.0.0",
+    "elexis": "^1.1.0",
+    "vite-plugin-singlefile": "^2.2.0"
+  },
+  "name": "custom-template",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
